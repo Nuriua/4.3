@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{   
+    int x, a, y;
+    cout<<"Vvedite x, a, y";
+    cin>>x;
+    cin>>" ";
+    cin>>a;
+    cin>>" ";
+    cin>>y;
+    z=a/x;
+    cout<<z;
+    cout<<" ";
+    cout<<z*y;
+    return 0;
+}
